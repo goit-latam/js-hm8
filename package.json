@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/goit-latam/js-hm8",
+  "homepage": "https://goit-latam.github.io/js-hm8/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /js-hm8/"
